@@ -1,0 +1,7 @@
+{
+  "Name": "Paltopia_IA",
+  "Group": "de.paltopia",
+  "Version": "1.0.0",
+  "Description": "Das ist mein Tutorial-Plugin",
+  "Main": "de.paltopia.paltopiaia.AITerminal"
+}
