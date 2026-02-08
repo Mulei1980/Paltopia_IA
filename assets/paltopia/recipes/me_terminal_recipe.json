@@ -1,0 +1,10 @@
+﻿{
+  "output": "paltopia:me_terminal",
+  "amount": 1,
+  "ingredients": [
+    { "item": "hytale:iron_ingot", "count": 4 },
+    { "item": "hytale:glass_pane", "count": 1 },
+    { "item": "hytale:quartz", "count": 2 }
+  ],
+  "station": "hytale:workbench"
+}

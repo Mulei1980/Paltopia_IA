@@ -1,0 +1,10 @@
+﻿{
+  "id": "paltopia:me_terminal",
+  "itemType": "BLOCK",
+  "model": "paltopia:block/me_terminal",
+  "displayName": "ME Terminal",
+  "description": "Zentraler Zugriffspunkt fuer dein Lagernetzwerk.",
+  "components": [
+    { "type": "paltopia:terminal_component", "radius": 20 }
+  ]
+}

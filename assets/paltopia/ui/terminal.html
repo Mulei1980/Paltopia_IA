@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="de">
+<head>
+    <style>
+        body { margin: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background: transparent; }
+        .window { width: 400px; background: rgba(26, 26, 46, 0.95); border: 2px solid #00d2ff; border-radius: 8px; color: white; padding: 15px; box-shadow: 0 0 20px rgba(0, 210, 255, 0.5); }
+        .grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-top: 15px; }
+        .slot { width: 60px; height: 60px; background: #16213e; border: 1px solid #0f3460; transition: background 0.2s; }
+        .slot:hover { background: #0f3460; border-color: #00d2ff; }
+        .header { font-weight: bold; border-bottom: 1px solid #00d2ff; padding-bottom: 5px; }
+    </style>
+</head>
+<body>
+    <div class="window">
+        <div class="header">ME TERMINAL - NETZWERK</div>
+        <div class="grid">
+            <div class="slot"></div><div class="slot"></div><div class="slot"></div><div class="slot"></div><div class="slot"></div>
+            <div class="slot"></div><div class="slot"></div><div class="slot"></div><div class="slot"></div><div class="slot"></div>
+        </div>
+    </div>
+</body>
+</html>
